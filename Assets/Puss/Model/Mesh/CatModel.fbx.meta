@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: db02ca05105854e44a33cf731aa5c3ff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cat_rig_animated:Cat_body_low
+    100002: Cat_rig_animated:Cat_eyelids_low
+    100004: Cat_rig_animated:Cat_eyes_low
+    100006: Cat_rig_animated:Center_jnt
+    100008: Cat_rig_animated:Geo
+    100010: Cat_rig_animated:Global_control
+    100012: Cat_rig_animated:Global_scale
+    100014: Cat_rig_animated:Head_jnt
+    100016: Cat_rig_animated:Jaw_jnt
+    100018: Cat_rig_animated:Jaw_lower_jnt
+    100020: Cat_rig_animated:Joints
+    100022: Cat_rig_animated:l_Ankle_jnt
+    100024: Cat_rig_animated:l_Ear_base_jnt
+    100026: Cat_rig_animated:l_Elbow_jnt
+    100028: Cat_rig_animated:l_Eye_jnt
+    100030: Cat_rig_animated:l_Eyelid_lower_jnt
+    100032: Cat_rig_animated:l_Eyelid_upper_jnt
+    100034: Cat_rig_animated:l_Hip_jnt
+    100036: Cat_rig_animated:l_Knee_jnt
+    100038: Cat_rig_animated:l_Paw_back_jnt
+    100040: Cat_rig_animated:l_Paw_front_jnt
+    100042: Cat_rig_animated:l_Pelvic_jnt
+    100044: Cat_rig_animated:l_Shoulder_jnt
+    100046: Cat_rig_animated:l_Toe_back_jnt
+    100048: Cat_rig_animated:l_Toe_front_jnt
+    100050: Cat_rig_animated:l_Wrist_jnt
+    100052: Cat_rig_animated:Lip_lower_jnt
+    100054: Cat_rig_animated:Neck_jnt
+    100056: Cat_rig_animated:Nose_jnt
+    100058: Cat_rig_animated:Nose_tip_jnt
+    100060: Cat_rig_animated:r_Ankle_jnt
+    100062: Cat_rig_animated:r_Ear_base_jnt
+    100064: Cat_rig_animated:r_Elbow_jnt
+    100066: Cat_rig_animated:r_Eye_jnt
+    100068: Cat_rig_animated:r_Eyelid_lower_jnt
+    100070: Cat_rig_animated:r_Eyelid_upper_jnt
+    100072: Cat_rig_animated:r_Hip_jnt
+    100074: Cat_rig_animated:r_Knee_jnt
+    100076: Cat_rig_animated:r_Paw_back_jnt
+    100078: Cat_rig_animated:r_Paw_front_jnt
+    100080: Cat_rig_animated:r_Pelvic_jnt
+    100082: Cat_rig_animated:r_Shoulder_jnt
+    100084: Cat_rig_animated:r_Toe_back_jnt
+    100086: Cat_rig_animated:r_Toe_front_jnt
+    100088: Cat_rig_animated:r_Wrist_jnt
+    100090: Cat_rig_animated:Ribcage_jnt
+    100092: Cat_rig_animated:Root_jnt
+    100094: Cat_rig_animated:Scapula_jnt
+    100096: Cat_rig_animated:Spine_jnt
+    100098: Cat_rig_animated:Tail_01_jnt
+    100100: Cat_rig_animated:Tail_02_jnt
+    100102: Cat_rig_animated:Tail_03_jnt
+    100104: Cat_rig_animated:Tail_04_jnt
+    100106: Cat_rig_animated:Tail_05_jnt
+    100108: Cat_rig_animated:Tail_06_jnt
+    100110: //RootNode
+    400000: Cat_rig_animated:Cat_body_low
+    400002: Cat_rig_animated:Cat_eyelids_low
+    400004: Cat_rig_animated:Cat_eyes_low
+    400006: Cat_rig_animated:Center_jnt
+    400008: Cat_rig_animated:Geo
+    400010: Cat_rig_animated:Global_control
+    400012: Cat_rig_animated:Global_scale
+    400014: Cat_rig_animated:Head_jnt
+    400016: Cat_rig_animated:Jaw_jnt
+    400018: Cat_rig_animated:Jaw_lower_jnt
+    400020: Cat_rig_animated:Joints
+    400022: Cat_rig_animated:l_Ankle_jnt
+    400024: Cat_rig_animated:l_Ear_base_jnt
+    400026: Cat_rig_animated:l_Elbow_jnt
+    400028: Cat_rig_animated:l_Eye_jnt
+    400030: Cat_rig_animated:l_Eyelid_lower_jnt
+    400032: Cat_rig_animated:l_Eyelid_upper_jnt
+    400034: Cat_rig_animated:l_Hip_jnt
+    400036: Cat_rig_animated:l_Knee_jnt
+    400038: Cat_rig_animated:l_Paw_back_jnt
+    400040: Cat_rig_animated:l_Paw_front_jnt
+    400042: Cat_rig_animated:l_Pelvic_jnt
+    400044: Cat_rig_animated:l_Shoulder_jnt
+    400046: Cat_rig_animated:l_Toe_back_jnt
+    400048: Cat_rig_animated:l_Toe_front_jnt
+    400050: Cat_rig_animated:l_Wrist_jnt
+    400052: Cat_rig_animated:Lip_lower_jnt
+    400054: Cat_rig_animated:Neck_jnt
+    400056: Cat_rig_animated:Nose_jnt
+    400058: Cat_rig_animated:Nose_tip_jnt
+    400060: Cat_rig_animated:r_Ankle_jnt
+    400062: Cat_rig_animated:r_Ear_base_jnt
+    400064: Cat_rig_animated:r_Elbow_jnt
+    400066: Cat_rig_animated:r_Eye_jnt
+    400068: Cat_rig_animated:r_Eyelid_lower_jnt
+    400070: Cat_rig_animated:r_Eyelid_upper_jnt
+    400072: Cat_rig_animated:r_Hip_jnt
+    400074: Cat_rig_animated:r_Knee_jnt
+    400076: Cat_rig_animated:r_Paw_back_jnt
+    400078: Cat_rig_animated:r_Paw_front_jnt
+    400080: Cat_rig_animated:r_Pelvic_jnt
+    400082: Cat_rig_animated:r_Shoulder_jnt
+    400084: Cat_rig_animated:r_Toe_back_jnt
+    400086: Cat_rig_animated:r_Toe_front_jnt
+    400088: Cat_rig_animated:r_Wrist_jnt
+    400090: Cat_rig_animated:Ribcage_jnt
+    400092: Cat_rig_animated:Root_jnt
+    400094: Cat_rig_animated:Scapula_jnt
+    400096: Cat_rig_animated:Spine_jnt
+    400098: Cat_rig_animated:Tail_01_jnt
+    400100: Cat_rig_animated:Tail_02_jnt
+    400102: Cat_rig_animated:Tail_03_jnt
+    400104: Cat_rig_animated:Tail_04_jnt
+    400106: Cat_rig_animated:Tail_05_jnt
+    400108: Cat_rig_animated:Tail_06_jnt
+    400110: //RootNode
+    2100000: Cat_rig_animated_Cat_body_texture
+    2100002: Cat_rig_animated_Cat_eyes_texture
+    2100004: Cat_rig_animated_Cat_eyelids_texture
+    4300000: Cat_rig_animated:Cat_body_low
+    4300002: Cat_rig_animated:Cat_eyes_low
+    4300004: Cat_rig_animated:Cat_eyelids_low
+    9500000: //RootNode
+    13700000: Cat_rig_animated:Cat_body_low
+    13700002: Cat_rig_animated:Cat_eyelids_low
+    13700004: Cat_rig_animated:Cat_eyes_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_rig_animated_Cat_body_texture
+    second: {fileID: 2100000, guid: 3fdff7c9d99eddd499e50a89f5e232a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_rig_animated_Cat_eyelids_texture
+    second: {fileID: 2100000, guid: 93230f2aa265d9841a1089b4bc117703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_rig_animated_Cat_eyes_texture
+    second: {fileID: 2100000, guid: fb26dad038bb3784cbe9339532ea3d10, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

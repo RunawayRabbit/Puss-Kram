@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: d089f5da00483434e9ed4ff3a9ca3161
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Seesaw_base_low
+    100004: Seesaw_board_low
+    100006: Seesaw_handle_low
+    100008: Seesaw_pivot_low
+    100010: Seesaw_stop_low
+    400000: //RootNode
+    400002: Seesaw_base_low
+    400004: Seesaw_board_low
+    400006: Seesaw_handle_low
+    400008: Seesaw_pivot_low
+    400010: Seesaw_stop_low
+    2100000: House_windows
+    2100002: House_roof
+    2100004: House_groundplate
+    2100006: House_wall
+    2100008: House_planks
+    2300000: Seesaw_base_low
+    2300002: Seesaw_board_low
+    2300004: Seesaw_handle_low
+    2300006: Seesaw_pivot_low
+    2300008: Seesaw_stop_low
+    3300000: Seesaw_base_low
+    3300002: Seesaw_board_low
+    3300004: Seesaw_handle_low
+    3300006: Seesaw_pivot_low
+    3300008: Seesaw_stop_low
+    4300000: Seesaw_handle_low
+    4300002: Seesaw_stop_low
+    4300004: Seesaw_pivot_low
+    4300006: Seesaw_base_low
+    4300008: Seesaw_board_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_groundplate
+    second: {fileID: 2100000, guid: bd89e9898068e884a9dd16a17e591a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_planks
+    second: {fileID: 2100000, guid: 81786709e33e02242b83f6cc9faaf722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_roof
+    second: {fileID: 2100000, guid: 1ba35af0aeebed147b2865652f996873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_wall
+    second: {fileID: 2100000, guid: c18f25ae95bd2464d9bc6f66570d95e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: House_windows
+    second: {fileID: 2100000, guid: c2a726502434ebc44a8b6f8fc6154968, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

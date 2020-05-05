@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ffb861d3ab5d7648a30258cecc1ed80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nextFence: {instanceID: 0}
+  - fencePiecePrefab: {fileID: 5038473245320108105, guid: 98af74637162c5b4798043a2e80d14fe,
+      type: 3}
+  - fencePostPrefab: {fileID: 6359858184383609066, guid: 81644d3344b8a8444ba144ee7f76775b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
